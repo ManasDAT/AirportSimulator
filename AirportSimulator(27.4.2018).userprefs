@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AirportSimulator/Scripts/MovementController/TankerController/WheelDrive.cs">
+    <Files>
+      <File FileName="Assets/AirportSimulator/Scripts/MovementController/TankerController/WheelDrive.cs" Line="89" Column="28" />
+      <File FileName="Assets/AirportSimulator/Scripts/Editor/GraphOverlayEditor.cs" Line="19" Column="77" />
+      <File FileName="Assets/AirportSimulator/Scripts/Editor/VehicleSkeletonWizard.cs" Line="38" Column="48" />
+      <File FileName="Assets/CameraLookAround.cs" Line="11" Column="27" />
+      <File FileName="Assets/DummyAssets/TankerAssets/Script/MovementControl.cs" Line="27" Column="46" />
+      <File FileName="Assets/AirportSimulator/Scripts/Camera/CarSwitcher.cs" Line="73" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
